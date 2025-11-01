@@ -151,7 +151,6 @@ Open visualization.pbix in Power BI Desktop to view the dashboard
 
 🧾 Author
 
-[Your Name]
-📧 your.email@example.com
+Mohammed fayd f
 
 📊 Data Analyst | Python | SQL | Power BI | BI Storytelling
